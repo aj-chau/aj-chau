@@ -1,7 +1,6 @@
 <div align="left">
 
 # Annette Chau
-### Application Security Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/annette-chau/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:annettejchau@outlook.com)
