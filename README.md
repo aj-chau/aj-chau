@@ -15,16 +15,16 @@
 
 ## Professional Experience
 
-### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="left">
+### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="center">
 **New York City | Feb 2025 - Present**  
 
-### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="left">
+### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="center">
 **Woburn, MA | Sept 2024**
 
-### MongoDB <img src="https://img.shields.io/badge/Role-Cloud_Security_Intern-blue?style=flat-square&logo=mongodb" align="left">
+### MongoDB <img src="https://img.shields.io/badge/Role-Cloud_Security_Intern-blue?style=flat-square&logo=mongodb" align="center">
 **New York City | June 2024 - Aug 2024**
 
-### Veracode <img src="https://img.shields.io/badge/Role-Product_Security_Intern-blue?style=flat-square" align="left">
+### Veracode <img src="https://img.shields.io/badge/Role-Product_Security_Intern-blue?style=flat-square" align="center">
 **Burlington, MA | May 2023 - Aug 2023**
 
 
@@ -68,10 +68,10 @@
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/aj-chau/wasmtime"><img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/><br>Link to wasmtime</a>
+  <a href="https://github.com/aj-chau/wasmtime"><img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/></a>
 </td>
 <td align="center">
-  <a href="https://github.com/aj-chau/battlecode25"><img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/><br>Link to 2024!</a>
+  <a href="https://github.com/aj-chau/battlecode25"><img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/></a>
 </tr>
 </table>
 
