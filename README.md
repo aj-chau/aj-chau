@@ -1,59 +1,124 @@
+<div align="center">
+
 # Annette Chau
-**Location:** Boston, MA  
-**Email:** annettejchau@outlook.com  
-**Phone:** 617-608-9846  
-**LinkedIn:** [/in/annette-chau/](https://linkedin.com/in/annette-chau/)
+## Application Security Engineer & Software Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/annette-chau/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:annettejchau@outlook.com)
+[![Location](https://img.shields.io/badge/Location-Boston_MA-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Boston,+MA)
+
+</div>
+
+## 👩‍💻 About Me
+> Passionate Computer Science graduate from Wellesley College, specializing in Application Security and Penetration Testing.
 
 
-## Work Experience
+## 💼 Professional Experience
 
-### Software Engineer 2 - MongoDB
-*New York City, NY | February 2025*
+### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="right">
+**New York City | Feb 2025 - Present**  
 
-### Software Engineering Co-op - STR
-*Woburn, MA | September 2024*
+### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="right">
+**Woburn, MA | Sept 2024**
 
-### Cloud Security Software Engineering Intern - MongoDB
-*New York City, NY | June 2024 - August 2024*
+### MongoDB <img src="https://img.shields.io/badge/Role-Cloud_Security_Intern-blue?style=flat-square&logo=mongodb" align="right">
+**New York City | June 2024 - Aug 2024**
 
-### Product Security Intern - Veracode
-*Burlington, MA | May 2023 - August 2023*
-
-### Software Engineering Intern - Putnam Investments
-*Boston, MA | June 2022 - August 2022*
+### Veracode <img src="https://img.shields.io/badge/Role-Product_Security_Intern-blue?style=flat-square" align="right">
+**Burlington, MA | May 2023 - Aug 2023**
 
 
-## Education
+## 🎓 Education
 
 ### Wellesley College
-*Wellesley, MA | September 2021 - December 2024*
-- Computer Science Major and English Minor
-- **Related Coursework:** Computer Systems, Cybersecurity, Algorithms, Theory of Computation, Computer Networks, Mobile App Development, Modeling for Computer Systems
-- Undergraduate Research with Wellesley's Programming Systems Lab, and MIT Sloan CAMS lab on Ransomware
+**Computer Science Major, English Minor | 2021 - 2024**
 
-### Newton North High School
-*Newton, MA | September 2017 – June 2021*
+<details>
+<summary>View Coursework & Activities</summary>
 
-## Skills
+#### 📚 Key Coursework
+- Computer Systems & Cybersecurity
+- Algorithms & Theory of Computation
+- Computer Networks
+- Mobile App Development
+- Systems Modeling
 
-### Programming Languages
-Python, Java, Go, Semgrep YAML, Javascript, SQL, C, R/RStudio, SuperCollider, JS/CSS/HTML, Rust
+#### 🔬 Research
+- Wellesley Programming Systems Lab
+- MIT Sloan CAMS Lab (Ransomware Research)
 
-### Applications
-Burp Suite, Bruno, Gitlab, Tableau, DBeaver, Postman, Github, Microstrategy, Oracle SQL Developer, AWS
+#### 🎭 Leadership
+- Technical Production Manager (Upstage/Babson Players)
+- Olin Formula SAE Sensors Team
+- Wellesley Rugby Executive Board
+</details>
 
-### Business Skills
-Agile Methodologies, JIRA/Kanban Boards, Google Suite, Microsoft Office, Presentations, Writing
+## 🏆 Certifications & Achievements
 
-### Technical Theater
-Sound Design, Sound Engineering, Lighting, Stage and Production Manager. Worked extensively with QLab. 
+<div align="center">
 
-## Certifications & Publications
+[![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/org/amazon-web-services)
+[![ISC2](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-blue?style=for-the-badge&logo=isc2)](https://www.isc2.org)
 
-### Certifications
-- AWS Certified Cloud Practitioner
-- ISC2 Certified in Cybersecurity (passed exam)
+</div>
 
-### Publications
-- M. Y. Muzayan Haq et al., "Measuring Malware Detection Capability for Security Decision Making," in 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Vienna, Austria, 2024, pp. 342-351
-[https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a342/1ZyWNWd6vwA]
+### 📝 Publications
+```bibtex
+@INPROCEEDINGS{haq2024measuring,
+  author={Haq, M. Y. Muzayan and others},
+  title={Measuring Malware Detection Capability for Security Decision Making},
+  booktitle={2024 IEEE European Symposium on Security and Privacy Workshops},
+  year={2024},
+  pages={342-351},
+  address={Vienna, Austria}
+}
+```
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/><br>
+  Created an IR Program fuzzer for security testing
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/><br>
+  Top 30% in AI competition (2023, 2024)
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Security-Assessment-green?style=for-the-badge" alt="Security Assessment"/><br>
+  Urban infrastructure vulnerability analysis
+</td>
+</tr>
+</table>
+
+## 💻 Technical Skills
+
+### Languages & Tools
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/Go-Intermediate-cyan?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
+
+</div>
+
+### Security Tools
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Professional-orange?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-Advanced-blue?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws)
+
+</div>
+
+---
+<div align="center">
+
+📍 Based in Boston, MA | 📱 617-608-9846 | 📧 annettejchau@outlook.com
+
+<img src="https://img.shields.io/badge/Open_to-Security_Opportunities-green?style=for-the-badge" alt="Open to Opportunities"/>
+
+</div>
