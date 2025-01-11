@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/annette-chau/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:annettejchau@outlook.com)
-[![Location](https://img.shields.io/badge/Location-New-York-City-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Boston,+MA)
+[![Location](https://img.shields.io/badge/Location-New_York_City-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/New-York-City,NY)
 
 </div>
 
@@ -58,43 +58,19 @@
 
 </div>
 
- **Publications**
-    <ul>
-      <li id="haq2024measuring"></li> 
-    </ul>
+**Publications**
 
-    <script src="https://cdn.jsdelivr.net/npm/jsbib/dist/jsbib.min.js"></script> 
-    <script>
-      const bibtexString = `@INPROCEEDINGS{haq2024measuring,
-          author={Haq, M. Y. Muzayan and others},
-          title={Measuring Malware Detection Capability for Security Decision Making},
-          booktitle={2024 IEEE European Symposium on Security and Privacy Workshops},
-          year={2024},
-          pages={342-351},
-          address={Vienna, Austria}
-      }`;
-
-      const bibtexParser = new JSBib();
-      const citation = bibtexParser.parse(bibtexString); 
-      document.getElementById("haq2024measuring").innerHTML = citation.render(); 
-    </script>
+- Haq, M. Y. Muzayan, and others. "Measuring Malware Detection Capability for Security Decision Making." *2024 IEEE European Symposium on Security and Privacy Workshops*, Vienna, Austria, pp. 342-351. [Link to Paper](https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a342/1ZyWNWd6vwA)
 
 ## Featured Projects
 
 <table>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/><br>
-  Created an IR Program fuzzer for security testing
+  <a href="https://github.com/aj-chau/wasmtime"><img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/><br>Created a fuzzer that generates Cranelift</a>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/><br>
-  Top 30% in AI competition (2023, 2024)
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Security-Assessment-green?style=for-the-badge" alt="Security Assessment"/><br>
-  Urban infrastructure vulnerability analysis
-</td>
+  <a href="https://github.com/aj-chau/battlecode25"><img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/><br>(2023, 2024, 2025)</a>
 </tr>
 </table>
 
@@ -105,7 +81,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/Go-Intermediate-cyan?style=flat-square&logo=go)
+![Go](https://img.shields.io/badge/Go-Learning-cyan?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
 
 </div>
@@ -114,7 +90,7 @@
 <div align="center">
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Professional-orange?style=flat-square)
-![Semgrep](https://img.shields.io/badge/Semgrep-Proficient-blue?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-Learning-blue?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws)
 
 </div>
