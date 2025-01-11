@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Annette Chau
 ### Application Security Engineer
@@ -51,7 +51,7 @@
 
 ## Certifications & Achievements
 
-<div align="center">
+<div align="left">
 
 [![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/org/amazon-web-services)
 [![ISC2](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-blue?style=for-the-badge&logo=isc2)](https://www.isc2.org)
@@ -65,20 +65,18 @@
 
 ## Featured Projects
 
-<table>
 <tr>
-<td align="center">
+<td align="left">
   <a href="https://github.com/aj-chau/wasmtime"><img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/></a>
 </td>
 <td align="center">
   <a href="https://github.com/aj-chau/battlecode25"><img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/></a>
 </tr>
-</table>
 
 ## Technical Skills
 
 ### Languages & Tools
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square&logo=java)
@@ -88,7 +86,7 @@
 </div>
 
 ### Security Tools
-<div align="center">
+<div align="left">
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Professional-orange?style=flat-square)
 ![Semgrep](https://img.shields.io/badge/Semgrep-Learning-blue?style=flat-square)
@@ -97,7 +95,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
 
 📍 Based in New York City | 📱 617-608-9846 | 📧 annettejchau@outlook.com
 
