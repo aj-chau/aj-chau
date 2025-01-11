@@ -12,13 +12,10 @@
 > Passionate Computer Science graduate from Wellesley College, specializing in Application Security and Penetration Testing.
 
 
-## Professional Experience
+## Experience
 
 ### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="center">
 **New York City | Feb 2025 - Present**  
-
-### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="center">
-**Woburn, MA | Sept 2024**
 
 
 ## Education
