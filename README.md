@@ -15,16 +15,16 @@
 
 ## Professional Experience
 
-### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="right">
+### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="left">
 **New York City | Feb 2025 - Present**  
 
-### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="right">
+### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="left">
 **Woburn, MA | Sept 2024**
 
-### MongoDB <img src="https://img.shields.io/badge/Role-Cloud_Security_Intern-blue?style=flat-square&logo=mongodb" align="right">
+### MongoDB <img src="https://img.shields.io/badge/Role-Cloud_Security_Intern-blue?style=flat-square&logo=mongodb" align="left">
 **New York City | June 2024 - Aug 2024**
 
-### Veracode <img src="https://img.shields.io/badge/Role-Product_Security_Intern-blue?style=flat-square" align="right">
+### Veracode <img src="https://img.shields.io/badge/Role-Product_Security_Intern-blue?style=flat-square" align="left">
 **Burlington, MA | May 2023 - Aug 2023**
 
 
@@ -34,7 +34,7 @@
 **Computer Science Major, English Minor | 2021 - 2024**
 
 <details>
-<summary>View Coursework & Activities</summary>
+<summary>View Coursework</summary>
 
 #### Key Coursework
 - Computer Systems & Cybersecurity
@@ -60,17 +60,18 @@
 
 **Publications**
 
-- Haq, M. Y. Muzayan, and others. "Measuring Malware Detection Capability for Security Decision Making." *2024 IEEE European Symposium on Security and Privacy Workshops*, Vienna, Austria, pp. 342-351. [Link to Paper](https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a342/1ZyWNWd6vwA)
+- Haq, M. Y. Muzayan, and others. "Measuring Malware Detection Capability for Security Decision Making." *2024 IEEE European Symposium on Security and Privacy Workshops*, Vienna, Austria, pp. 342-351.
+(https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a342/1ZyWNWd6vwA)
 
 ## Featured Projects
 
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/aj-chau/wasmtime"><img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/><br>Created a fuzzer that generates Cranelift</a>
+  <a href="https://github.com/aj-chau/wasmtime"><img src="https://img.shields.io/badge/Crane_Lift-IR_Fuzzer-red?style=for-the-badge" alt="Crane Lift"/><br>Link to wasmtime</a>
 </td>
 <td align="center">
-  <a href="https://github.com/aj-chau/battlecode25"><img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/><br>(2023, 2024, 2025)</a>
+  <a href="https://github.com/aj-chau/battlecode25"><img src="https://img.shields.io/badge/MIT-Battlecode-blue?style=for-the-badge" alt="Battlecode"/><br>Link to 2024!</a>
 </tr>
 </table>
 
@@ -81,7 +82,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/Go-Learning-cyan?style=flat-square&logo=go)
+![Go](https://img.shields.io/badge/Go-Learning-blue?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
 
 </div>
