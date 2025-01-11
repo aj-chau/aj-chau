@@ -20,9 +20,11 @@
 
 ### STR <img src="https://img.shields.io/badge/Role-Software_Engineering_Co--op-blue?style=flat-square" align="center">
 **Woburn, MA | Sept 2024**
+- Worked in the Air Dominance Lab
 
 ### MongoDB <img src="https://img.shields.io/badge/Role-Cloud_Security_Intern-blue?style=flat-square&logo=mongodb" align="center">
 **New York City | June 2024 - Aug 2024**
+- Worked for the Cloud Security Team, uncovering several high impact vulnerabilities
 
 ### Veracode <img src="https://img.shields.io/badge/Role-Product_Security_Intern-blue?style=flat-square" align="center">
 **Burlington, MA | May 2023 - Aug 2023**
@@ -78,8 +80,8 @@
 ### Languages & Tools
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-Proficient-orange?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-Proficient-orange?style=flat-square&logo=java)
 ![Go](https://img.shields.io/badge/Go-Learning-blue?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
 
