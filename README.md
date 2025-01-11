@@ -41,18 +41,15 @@
 - Wellesley Programming Systems Lab
 - MIT Sloan CAMS Lab (Ransomware Research)
 
+#### Theater
+- Production Manager
+- Stage Manager
+- Sound Engineering and Sound Design => QLab
+- Lighting
+
 </details>
 
-## Certifications & Achievements
-
-<div align="left">
-
-[![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/org/amazon-web-services)
-[![ISC2](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-blue?style=for-the-badge&logo=isc2)](https://www.isc2.org)
-
-</div>
-
-**Publications**
+## Publications
 
 - Haq, M. Y. Muzayan, and others. "Measuring Malware Detection Capability for Security Decision Making." *2024 IEEE European Symposium on Security and Privacy Workshops*, Vienna, Austria, pp. 342-351.
 (https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a342/1ZyWNWd6vwA)
@@ -72,8 +69,8 @@
 ### Languages & Tools
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-Proficient-orange?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-Proficient-orange?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-orange?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Go](https://img.shields.io/badge/Go-Learning-blue?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
 
@@ -82,8 +79,8 @@
 ### Security Tools
 <div align="left">
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Professional-orange?style=flat-square)
-![Semgrep](https://img.shields.io/badge/Semgrep-Learning-blue?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-blue?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws)
 
 </div>
