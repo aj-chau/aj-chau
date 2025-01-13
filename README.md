@@ -65,7 +65,8 @@
 
 ## Technical Skills
 
-### Languages & Tools
+<details>
+  <summary>Languages & Tools</summary>
 <div align="left">
 
 #### Programming Languages
@@ -75,7 +76,7 @@
 - Go (Learning)
 - Rust (Learning)
 
-### Tools
+#### Tools
 - Postman
 - Semgrep
 - AWS Certified Cloud Practitioner
