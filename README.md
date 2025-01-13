@@ -67,13 +67,14 @@
 ### Languages & Tools
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-orange?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/Go-Learning-blue?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
-![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat-square)
-![Semgrep](https://img.shields.io/badge/Semgrep-blue?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws)
+![Java]
+![Python]
+![Go] - Learning
+![Rust] - Learning
+![Burp Suite]
+![Postman]
+![Semgrep]
+![AWS Certified Cloud Practitioner]
 
 </div>
 
