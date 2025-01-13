@@ -16,7 +16,7 @@
 
 ## Experience
 
-### MongoDB <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="center">
+### MongoDB   <img src="https://img.shields.io/badge/Role-Software_Engineer_2-blue?style=flat-square&logo=mongodb" align="center">
 **New York City | Feb 2025 - Present**  
 
 
@@ -44,6 +44,7 @@
 - Stage Manager
 - Sound Engineering and Sound Design => QLab
 - Lighting
+- R+H's Cinderella, Heather's, 25th Annual Putnam County Spelling Bee, Saturday Night Sunday Morning
 
 </details>
 
@@ -67,14 +68,20 @@
 ### Languages & Tools
 <div align="left">
 
-![Java]
-![Python]
-![Go] - Learning
-![Rust] - Learning
-![Burp Suite]
-![Postman]
-![Semgrep]
-![AWS Certified Cloud Practitioner]
+#### Programming Languages
+- Java
+- Python
+- Javascript
+- Go (Learning)
+- Rust (Learning)
+
+### Tools
+- Postman
+- Semgrep
+- AWS Certified Cloud Practitioner
+- Github
+- Gitlab
+
 
 </div>
 
