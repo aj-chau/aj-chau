@@ -9,7 +9,8 @@
 </div>
 
 ## About Me
-> Passionate Computer Science graduate from Wellesley College, specializing in Application Security and Penetration Testing.
+> Hey! I am a new graduate of Wellesley College, class of 2024.5-- with a degree in Computer Science and a minor in English. I focused on Computer Security topics all throughout college, with internships at Putnam Investments, Veracode, and MongoDB while doing research as part of Wellesley's Programming Systems Lab (PSL) and MIT's Cybersecurity @ Sloan. I have accepted MongoDB's offer back starting Feb 2025!
+> I am always open to conversation, and am looking for my next technical theater role as well! I have experience Production Managing, Stage Managing, Audio Design + Board Operator, as well as being a 'Master Electrician' of sorts. Would love to get involved in more Board Operating work.
 
 
 ## Experience
@@ -69,12 +70,6 @@
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Go](https://img.shields.io/badge/Go-Learning-blue?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-Learning-red?style=flat-square&logo=rust)
-
-</div>
-
-### Security Tools
-<div align="left">
-
 ![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat-square)
 ![Semgrep](https://img.shields.io/badge/Semgrep-blue?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws)
