@@ -9,9 +9,8 @@
 </div>
 
 ## About Me
-> Hey! I am a new graduate of Wellesley College, class of 2024.5-- with a degree in Computer Science and a minor in English. I focused on Computer Security topics all throughout college, with internships at Putnam Investments, Veracode, and MongoDB while doing research as part of Wellesley's Programming Systems Lab (PSL) and MIT's Cybersecurity @ Sloan. I have accepted MongoDB's offer back starting Feb 2025!
+> Hey! I am a new graduate of Wellesley College, class of 2024.5-- with a degree in Computer Science and a minor in English. I focused on Computer Security topics all throughout college, with internships at Putnam Investments, Veracode, and MongoDB while doing research as part of Wellesley's Programming Systems Lab (PSL) and MIT's Cybersecurity @ Sloan. I am currently a Software Engineer at MongoDB. 
 >
-> I am always open to conversation, and am looking for my next technical theater role as well. I have experience Production Managing, Stage Managing, Audio Design + Board Operator, as well as being a 'Master Electrician' of sorts. Would love to get involved in more Board Operating work.
 
 
 ## Experience
@@ -38,13 +37,6 @@
 #### Research
 - Wellesley Programming Systems Lab
 - MIT Sloan CAMS Lab (Ransomware Research)
-
-#### Theater
-- Production Manager
-- Stage Manager
-- Sound Engineering and Sound Design => QLab
-- Lighting
-- R+H's Cinderella, Heather's, 25th Annual Putnam County Spelling Bee, Saturday Night Sunday Morning
 
 </details>
 
@@ -75,9 +67,11 @@
 - Javascript
 - Go (Learning)
 - Rust (Learning)
+- C++ (Learning)
 
 #### Tools
-- Postman
+- Postman, Bruno
+- Burp Suite
 - Semgrep
 - AWS Certified Cloud Practitioner
 - Github
